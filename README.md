@@ -2,8 +2,8 @@
 
 My name is Peter, I'm an trained computer scientist interested in Data Science & Coding 
 
-- 🔭 I’m currently working on an hot-spot analysis algorithm
-- 🌱 I’m currently learning big data analytics in university & self learning audio programming
+- 🔭 Currently working on an hot-spot analysis algorithm
+- 🌱 Learning big data analytics in university & self learning audio programming
 
 <!--
 **Peter-Ramos/Peter-Ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
