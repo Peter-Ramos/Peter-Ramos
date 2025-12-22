@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hello :)
 
 My name is Peter, I'm an trained computer scientist interested in Data Science & Coding 
 
