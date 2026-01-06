@@ -4,7 +4,6 @@ My name is Peter, I'm a computer scientist interested in Data Science & Coding
 
 - 🛣️ Currently working on an hot-spot analysis algorithm on road segments
 - 🌱 Learning big data analytics in university
-- 
 
 <!--
 **Peter-Ramos/Peter-Ramos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
